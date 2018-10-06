@@ -21,6 +21,8 @@ language: fr
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Variétés Historiques et Littéraires (9 / 10)
 
   Recueil de piéces volantes rares et curieuses en prose et en vers'
